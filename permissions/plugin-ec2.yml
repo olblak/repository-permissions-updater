@@ -6,9 +6,9 @@ paths:
 developers:
 - "thoulen"
 - "julienduchesne"
-- "jvz"
 - "fcojfernandez"
 - "raihaan"
+- "mramonleon"
 security:
   contacts:
     jira: "foundation_security_members"
